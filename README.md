@@ -11,12 +11,12 @@
 
 **Пройденные онлайн курсы**
 
-* [Основы статистики]:https://stepik.org/cert/1346308
+[Основы статистики]:https://stepik.org/cert/1346308
 
-* [Основы статистики. Часть 2]:https://stepik.org/cert/1606122
+[Основы статистики. Часть 2]:https://stepik.org/cert/1606122
 
-* [Интерактивный тренажер по SQL]:https://stepik.org/cert/1156113
+[Интерактивный тренажер по SQL]:https://stepik.org/cert/1156113
 
-* [Введение в Data Science и машинное обучение]:https://stepik.org/cert/1628989
+[Введение в Data Science и машинное обучение]:https://stepik.org/cert/1628989
 
 
