@@ -6,7 +6,7 @@
 
 * Python (pandas, numpy, matplotlib, seaborn, scipy.stats, sklearn)
 
-* SQL (подзапросы, CTE, оконные функции) 
+* SQL (в т.ч. подзапросы, CTE, оконные функции) 
 
 * Tableau, Yandex DataLens
 
