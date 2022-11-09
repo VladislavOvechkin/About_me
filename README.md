@@ -10,7 +10,7 @@
 
 * Математическая статистика
 
-* Tableau, Yandex DataLens
+* Tableau (https://public.tableau.com/app/profile/vladislav6811), Yandex DataLens
 
 * Git
 
