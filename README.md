@@ -28,8 +28,12 @@
 
 * [Основы статистики. Часть 2](https://stepik.org/cert/1606122)
 
+* [Основы статистики. Часть 3](https://stepik.org/cert/1648608)
+
 * [Интерактивный тренажер по SQL](https://stepik.org/cert/1156113)
 
 * [Введение в Data Science и машинное обучение](https://stepik.org/cert/1628989)
+
+* [Git для всех](https://stepik.org/cert/1847550)
 
 
